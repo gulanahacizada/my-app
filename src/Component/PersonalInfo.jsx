@@ -4,7 +4,6 @@ function PersonalInfo() {
     <div>
       <h2>Şəxsi məlumatlar</h2>
       <hr />
-        <p>Adı: Gülana Hacızadə</p>
         <p>Yaş: 19</p>
         <p>Yaşayış yeri: Baki.Yasamal.Şərifzadə küç.bina:298</p> 
     </div>
