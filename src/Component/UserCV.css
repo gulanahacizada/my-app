@@ -1,0 +1,25 @@
+.big{
+    padding-left: 20px;
+    background-color:  rgb(215, 173, 255);
+    margin: auto;
+    border: 1px solid rgb(143, 0, 143);
+    width: 1000px;
+}
+.small{
+    width: 800px;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 100px;
+    background-color: rgb(190, 130, 247)
+}
+img{
+    width: 230px;
+    display: flex;
+border-radius: 100px;
+}
+h1{
+    margin-left: 70px;
+    margin-top: 80px;
+}
